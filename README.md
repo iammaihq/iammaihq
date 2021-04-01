@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mai. I write at @projectmeaning
-- 👀 I’m interested in statistics, organization, and the creative process (particularly music)
+- 👀 I’m interested in statistics, organization, & the creative process
 - 🌱 I’m currently learning about project management, data analytics, & web development
-- 💞️ I’m looking to collaborate on projects related to the topics I'm exploring above
+- 💞️ I’m looking to collaborate on projects that could help 
 - 📫 You cannot reach me yet but I'm working on it!
 
 <!---
